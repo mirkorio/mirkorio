@@ -79,4 +79,8 @@
 
 ![Marc Christian's Graph](https://github-readme-activity-graph.vercel.app/graph?username=mirkorio&custom_title=Marc%20Christian's%20GitHub%20Activity%20Graph&bg_color=24292E&color=79B8FF&line=79B8FF&point=79B8FF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
+<img src="https://github-profile-trophy.vercel.app?username=mirkorio&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+
+
+
 
