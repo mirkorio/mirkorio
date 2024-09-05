@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">「 Hi there! I'm Marc Christian D. Tumaneng, a 21-year-old student currently pursuing a Bachelor of Science in Computer Science. I'm in my 4th year of college and always eager to learn more about programming and technology. Although I still have a lot to improve in my programming skills, I'm dedicated to learning and growing every day. Feel free to check out my projects and connect with me!」</p>
+<p align="left">「  Marc Christian D. Tumaneng, First of His Name, King of the Andals, the Rhoynar, and the First Men, Lord of the Seven Kingdoms, and Protector of the Realm."」</p>
 
 ###
 
