@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">「  Marc Christian D. Tumaneng, First of His Name, King of the Andals, the Rhoynar, and the First Men, Lord of the Seven Kingdoms, and Protector of the Realm."」</p>
+<p align="left">「  Marc Christian D. Tumaneng, First of His Name, Bastard of Winterfell, 998th Lord Commander of the Night’s Watch, King in the North, King of the Andals, the Rhoynar, and the First Men, Lord of the Seven Kingdoms, and Protector of the Realm."」</p>
 
 ###
 
